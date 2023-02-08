@@ -1,0 +1,27 @@
+h1 {
+  font-size: 3vw;
+  text-align: center;
+}
+
+#us {
+width: 40%;
+padding-left: 15px;
+padding-top: 10px;
+animation: pulse 5s;
+}
+
+#p1{
+  width: 40%;
+  padding-left: 8px;
+  padding-top: 15px;
+  border: 4mm ridge rgb(47, 47, 92);
+}
+
+body{
+  background-color: beige;
+}
+
+#pup{
+  float: right;
+  
+}
