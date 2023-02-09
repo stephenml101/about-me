@@ -1,8 +1,29 @@
+body{
+  background-color: beige;
+}
+
 h1 {
   font-size: 3vw;
   text-align: center;
+  font-weight: bold;
 }
 
+h2 { 
+  font-size: 2vw;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+#movies{
+  padding-left: 40px;
+}
 #us {
 width: 40%;
 padding-left: 15px;
@@ -12,16 +33,14 @@ animation: pulse 5s;
 
 #p1{
   width: 40%;
-  padding-left: 8px;
+  padding-left: 20px;
   padding-top: 15px;
   border: 4mm ridge rgb(47, 47, 92);
 }
 
-body{
-  background-color: beige;
-}
 
 #pup{
   float: right;
-  
+  width: 30%;
+  position: absolute; top: 50px; left: 800px;
 }
